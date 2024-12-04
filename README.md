@@ -14,8 +14,10 @@ my solutions for [Advent of code 2024](https://adventofcode.com/2024)
 solution are written in c++ and python, to run:
 
 > using python
+
 `python3 taskN.py < in`
 
 > using c++
+
 `g++ taskN.cc && ./a.out < in`
 

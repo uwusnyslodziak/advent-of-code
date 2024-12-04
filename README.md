@@ -8,4 +8,5 @@ my solutions for [Advent of code](https://adventofcode.com)
 |1      |3246517    |29379307   |
 |2      |334        |400        |
 |3      |159892596  |92626942   |
+|4      |2554       |1916       |
 
